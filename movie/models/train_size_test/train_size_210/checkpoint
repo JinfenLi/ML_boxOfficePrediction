@@ -1,0 +1,5 @@
+model_checkpoint_path: "steps_1200"
+all_model_checkpoint_paths: "steps_0"
+all_model_checkpoint_paths: "steps_200"
+all_model_checkpoint_paths: "steps_400"
+all_model_checkpoint_paths: "steps_1200"
